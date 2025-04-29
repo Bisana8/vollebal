@@ -19,5 +19,5 @@ if __name__ == "__main__":
     if number_of_volleyballs is not None:
         print(f"Number of volleyballs in Europe: {number_of_volleyballs}")
     else:
-        print("Failed to retrieve data."
+ 
 

@@ -18,6 +18,6 @@ if __name__ == "__main__":
     number_of_volleyballs = get_number_of_volleyballs()
     if number_of_volleyballs is not None:
         print(f"Number of volleyballs in Europe: {number_of_volleyballs}")
-    else:
+    
  
 
